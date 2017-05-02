@@ -13,3 +13,9 @@ Deploying models to production with Jenkins, Docker, and Kubernetes. Following a
 ### Backlog Links
 _Links that look interesting to check out found while building this project_
 - Using EC2 and VPC to set up a Jenkins server https://aws.amazon.com/getting-started/projects/setup-jenkins-build-server/
+
+
+### Links Browsed
+- Travis CI
+	+ https://www.smartfile.com/blog/testing-python-with-travis-ci/
+	+ http://python-guide-pt-br.readthedocs.io/en/latest/scenarios/ci/ 
