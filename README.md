@@ -7,7 +7,8 @@ Deploying models to production with Jenkins, Docker, and Kubernetes. Following a
 - Create the `.gitignore` from the Python template on Github.
 - Clone the repo down and run `virtualenv venv`
 - To activate the virtual environment run `source venv/bin/activate`
-- To deactivate run `deactivate`
+- To deactivate run `deactivate`.
+- Project Travis CI page https://travis-ci.org/jmi5/py2production
 
 
 ### Backlog Links
@@ -19,3 +20,4 @@ _Links that look interesting to check out found while building this project_
 - Travis CI
 	+ https://www.smartfile.com/blog/testing-python-with-travis-ci/
 	+ http://python-guide-pt-br.readthedocs.io/en/latest/scenarios/ci/ 
+	+ http://blog.tgrrtt.com/exploring-the-travisci-configuration-file
