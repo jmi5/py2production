@@ -10,9 +10,9 @@ install:
 
 
 # Command to run tests
-# script:
+script:
 #  - coverage run tests.py
-# - python my_tests.py
+- python my_tests.py
 
 # after_success:
 #   - codecov
