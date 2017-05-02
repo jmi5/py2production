@@ -21,9 +21,9 @@ branches:
   only:
     - master
 
-notifications:
-  email: true
-    recipients:
-      - jizzard@redventures.com
-  on_success: change
-  on_failure: always
+# notifications:
+#   email: true
+#     recipients:
+#       - jizzard@redventures.com
+#   on_success: change
+#   on_failure: always
