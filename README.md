@@ -8,3 +8,8 @@ Deploying models to production with Jenkins, Docker, and Kubernetes. Following a
 - Clone the repo down and run `virtualenv venv`
 - To activate the virtual environment run `source venv/bin/activate`
 - To deactivate run `deactivate`
+
+
+### Backlog Links
+_Links that look interesting to check out found while building this project_
+- Using EC2 and VPC to set up a Jenkins server https://aws.amazon.com/getting-started/projects/setup-jenkins-build-server/
